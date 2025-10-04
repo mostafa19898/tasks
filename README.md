@@ -1,4 +1,4 @@
-# Mini Task Manager (Backend)
+# Mini Task Manager 
 
 This is the **backend** part of the Mini Task Manager project, built with **Core PHP (no frameworks)**.  
 The entry point is a single file: **`api/public/tasks.php`**, which exposes a REST API to manage tasks.  
